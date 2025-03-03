@@ -1,0 +1,22 @@
+{
+  "name": "investifi-qa-technical-challenge",
+  "version": "1.0.0",
+  "description": "Welcome to the Investifi QA Engineer technical challenge! This challenge is designed to evaluate your ability to create a comprehensive test plan, write automated tests using Playwright, and demonstrate your approach to testing web applications. We’re excited to see how you approach this task!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoFi-LLC/investifi-qa-technical-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CryptoFi-LLC/investifi-qa-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/CryptoFi-LLC/investifi-qa-technical-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.8"
+  }
+}
