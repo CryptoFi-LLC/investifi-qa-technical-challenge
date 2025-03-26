@@ -6,13 +6,9 @@ Welcome to the Investifi QA Engineer technical challenge! This challenge is desi
 In this challenge, you will be tasked with creating a **test plan** for our **End User Experience (EUX)** and debugging an automated Playwright script to successfully execute a smoke test against Investifi's landing page.
 
 The challenge will require you to:
-1. Create a detailed test plan that outlines the test scenarios you will cover.
+1. Create a test plan that focuses on the buying and selling of assets.
+2. Debugging automated smoke tests that validate static content on the EUX landing page.
 
-2. Document your approach to testing.
-
-3. Debug our playwright tests so that they run successfully.
-
----
 
 ## Requirements
 ### Test Plan
@@ -23,7 +19,7 @@ The challenge will require you to:
   - Automation Scope
   - Assumptions & Risks
 
-### Automation Scripts
+### Automated Tests
 - Use **Playwright** to debug our existing smoke test.
 - Use assertions to validate expected behavior.
 - The script should:
